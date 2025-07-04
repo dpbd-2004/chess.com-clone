@@ -30,12 +30,19 @@ A multiplayer, browser-based chess game built using **Node.js**, **Express**, **
 ## 📂 Folder Structure
 
 chess.com-clone/
+
 ├── public/
+
 │ └── js/
+
 │ └── chessgame.js # Frontend logic (drag-drop, rendering, Socket.IO)
+
 ├── views/
+
 │ └── index.ejs # HTML template rendered by Express
+
 ├── app.js # Main server with Socket.IO and Express
+
 ├── package.json
 
 
